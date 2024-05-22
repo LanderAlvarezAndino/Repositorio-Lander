@@ -1,3 +1,1 @@
-# Repositorio-Lander
-
-Soy **Lander Alvarez Andino** de _4to 1ra AVC_.
+git clone https://github.com/LanderAlvarezAndino/Spoon-Knife
