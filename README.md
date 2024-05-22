@@ -1,5 +1,5 @@
-git clone https://github.com/Repositorio-Lander/Spoon-Knife
-$ git clone https://github.com/Repositorio-Lander/Spoon-Knife
+git clone https://github.com/LanderAlvarezAndino/Spoon-Knife
+$ git clone https://github.com/LanderAlvarezAndino/Spoon-Knife
 > Cloning into Spoon-knife
 > remote: Counting objects: 10, done
 > remote: Compressing objects: 100%
